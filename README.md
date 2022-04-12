@@ -49,7 +49,7 @@ When first arriving on the Web application, the user will see this as the Home P
 
 <img src="Screenshots/Home.png" width=100% >
 
-![Create Screen](Screenshots/Tse.png)
+![Create Screen](Screenshots/Create.png)
 
 ![Card Screen](Screenshots/Cards.png)
 
