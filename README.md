@@ -54,3 +54,5 @@ When first arriving on the Web application, the user will s
 ![Card Screen](Screenshots/Cards.png)
 
 ![Add Cards Screen](Screenshots/AddCards.png)
+
+![Study Screen](Screenshots/Study.png)
