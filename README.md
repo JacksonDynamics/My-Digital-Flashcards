@@ -47,7 +47,7 @@ _**The code provided shows the FrontEnd design only.  Backend server has not bee
 
 When first arriving on the Web application, the user will s
 
-![Home Screen](Screenshots/Home.png | width=100)
+![Home Screen]("Screenshots/Home.png" width=100)
 
 ![Create Screen](Screenshots/Create.png)
 
