@@ -4,9 +4,10 @@
 A FrontEnd web application to create decks of flashcards, which can store these created decks into an api, and upon request, retrieve them to be studied.
 
 ## Features
-1. Allows for creation of decks to categorize study subjects
-2. Allows for the creation of several cards in a deck with front and back pages
-3. Users can delete both decks and cards
+1. Allows for creation of individual decks and to name and categorize subjects
+2. Allows for the creation of several cards within each individual deck, which includes a front and back side
+3. Once decks and cards are created with a minimum of 3 cards in a deck, allows user to implement a study view 
+4. Users can delete both decks and cards
 
 ## Tech
 Rendering of a full-stack study tool application using React, React hooks and stateful components. Built website routing using React Router and made Fetch API calls using RESTful design principles.
@@ -26,7 +27,8 @@ Install the dependencies and devDependencies and start the server.
 cd My-Digital-Flashcards
 npm i
 npm start 
-For windows users...
+
+**For windows users:**
 
 npm run start:react
 npm run start:server
