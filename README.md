@@ -1,6 +1,5 @@
 # My Digital Flashcards
 
-[Flashcards Example Layout](http://project-flashcards-example.herokuapp.com/)
 
 A FrontEnd web application to create decks of flashcards, which can store these created decks into an api, and upon request, retrieve them to be studied.
 
@@ -15,7 +14,7 @@ Languages, frameworks, and packages used include:
 * JavaScript ES6
 * React (with hooks)
 
-### This project has not yet been deployed.  The code provided shows the FrontEnd design only.  Backend server has not been created.  The Data -db.json file is to mimic what the server would provide.
+### The code provided shows the FrontEnd design only.  Backend server has not been created.  The Data -db.json file is to mimic what the server would provide.  However, if there was a working server, the final product would work similar to this [Flashcards Example Layout](http://project-flashcards-example.herokuapp.com/)
 
 
 -see below for a preview of final product:
