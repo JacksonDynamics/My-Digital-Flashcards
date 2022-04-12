@@ -45,9 +45,9 @@ _**The code provided shows the FrontEnd design only.  Backend server has not bee
 
 ***
 
-When first arriving on the Web application, the user will s
+When first arriving on the Web application, the user will see this as the Home Page
 
-![Home Screen](Screenshots/Home.png =100)
+<img src="Screenshots/Home.png" width="100" height="100">
 
 ![Create Screen](Screenshots/Create.png)
 
