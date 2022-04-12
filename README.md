@@ -4,9 +4,9 @@
 A FrontEnd web application to create decks of flashcards, which can store these created decks into an api, and upon request, retrieve them to be studied.
 
 ## Features
-Allows for creation of decks to categorize study subjects
-Allows for the creation of several cards in a deck with front and back pages
-Users can delete both decks and cards
+1. Allows for creation of decks to categorize study subjects
+2. Allows for the creation of several cards in a deck with front and back pages
+3. Users can delete both decks and cards
 
 ## Tech
 Rendering of a full-stack study tool application using React, React hooks and stateful components. Built website routing using React Router and made Fetch API calls using RESTful design principles.
