@@ -20,4 +20,4 @@ _**The code provided shows the FrontEnd design only.  Backend server has not bee
 
 ***
 
-![Home](/Screenshots/Home.png)
+![](Screenshots/Home.png)
