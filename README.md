@@ -47,4 +47,10 @@ _**The code provided shows the FrontEnd design only.  Backend server has not bee
 
 When first arriving on the Web application, the user will s
 
-![Home Screen](Screenshots/home.png)
+![Home Screen](Screenshots/Home.png)
+
+![Create Screen](Screenshots/Create.png)
+
+![Card Screen](Screenshots/Card.png)
+
+![Add Cards Screen](Screenshots/AddCard.png)
