@@ -4,9 +4,10 @@ Rendering of a full-stack study tool application using React, React hooks and st
 
 Languages, frameworks, and packages used include:
 
-HTML5
-CSS3
-Bootstrap
-JavaScript ES6
-React (with hooks)
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript ES6
+* React (with hooks)
+
 This project has not yet been deployed - see below for a preview of frontend design:
