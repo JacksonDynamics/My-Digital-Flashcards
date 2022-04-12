@@ -14,7 +14,7 @@ Languages, frameworks, and packages used include:
 * JavaScript ES6
 * React (with hooks)
 
-The code provided shows the FrontEnd design only.  Backend server has not been created.  The Data -db.json file is to mimic what the server would provide.  However, if there was a working server, the final product would work similar to this [Flashcards Example Layout](http://project-flashcards-example.herokuapp.com/)
+**The code provided shows the FrontEnd design only.  Backend server has not been created.  The Data -db.json file is to mimic what the server would provide.  However, if there was a working server, the final product would work similar to this [Flashcards Example Layout](http://project-flashcards-example.herokuapp.com/)**
 
 
 -see below for a preview of final product:
