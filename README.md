@@ -13,7 +13,7 @@ Languages, frameworks, and packages used include:
 * JavaScript ES6
 * React (with hooks)
 
-#### This project has not yet been deployed.  The code provided here shows the FrontEnd design only.  Backend server has not been created.  
+#### This project has not yet been deployed.  The code provided shows the FrontEnd design only.  Backend server has not been created.  
 #### The Data json.db file is to mimic what the server would provide.
 
 -see below for a preview of final product:
