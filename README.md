@@ -1,6 +1,8 @@
 # My Digital Flashcards
 
+
 A FrontEnd web application to create decks of flashcards, which can store these created decks into an api, and upon request, retrieve them to be studied.
+
 
 Rendering of a full-stack study tool application using React, React hooks and stateful components. Built website routing using React Router and made Fetch API calls using RESTful design principles.
 
