@@ -47,12 +47,28 @@ _**The code provided shows the FrontEnd design only.  Backend server has not bee
 
 When first arriving on the Web application, the user will see this as the Home Page
 
-<img src="Screenshots/Home.png" width=100% >
+![Home Screen](Screenshots/Home.png)
+
+---
+
+The User can click on the Create Deck button to bring them to this page, where they can name the deck and give a description
 
 ![Create Screen](Screenshots/Create.png)
 
+---
+
+Optionally, the User can click on View to see the Deck chosen and the cards that are in that particular deck
+
 ![Card Screen](Screenshots/Cards.png)
 
+---
+
+On this page, the User can add new cards to the deck chosen.  Each card has a Front and a Back side to it
+
 ![Add Cards Screen](Screenshots/AddCards.png)
+
+---
+
+After selecting a deck to view, the User can click on the Study button to bring them to this page and view the front of the first card, and the flip button to see the back 
 
 ![Study Screen](Screenshots/Study.png)
