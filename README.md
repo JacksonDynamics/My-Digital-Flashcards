@@ -3,6 +3,40 @@
 
 A FrontEnd web application to create decks of flashcards, which can store these created decks into an api, and upon request, retrieve them to be studied.
 
+
+-see below for a preview of final product:
+
+***
+
+When first arriving on the Web application, the user will see this as the Home Page
+
+![Home Screen](Screenshots/Home.png)
+
+---
+
+The User can click on the Create Deck button to bring them to this page, where they can name the deck and give a description
+
+![Create Screen](Screenshots/Create.png)
+
+---
+
+Optionally, the User can click on View to see the Deck chosen and the cards that are in that particular deck
+
+![Card Screen](Screenshots/Cards.png)
+
+---
+
+On this page, the User can add new cards to the deck chosen.  Each card has a Front and a Back side to it
+
+![Add Cards Screen](Screenshots/AddCards.png)
+
+---
+
+After selecting a deck to view, the User can click on the Study button to bring them to this page and view the front of the first card, and the flip button to see the back 
+
+![Study Screen](Screenshots/Study.png)
+
+
 ## Features
 1. Allows for creation of individual decks and to name and categorize subjects
 2. Allows for the creation of several cards within each individual deck, which includes a front and back side
@@ -41,34 +75,3 @@ An API server, powered by json-server, running on http://localhost:5000 A React 
 
 _**The code provided shows the FrontEnd design only.  Backend server has not been created.  The Data -db.json file is to mimic what the server would provide.  However, if there was a working server, the final product would work similar to this [Flashcards Example Layout](http://project-flashcards-example.herokuapp.com/)**_
 
--see below for a preview of final product:
-
-***
-
-When first arriving on the Web application, the user will see this as the Home Page
-
-![Home Screen](Screenshots/Home.png)
-
----
-
-The User can click on the Create Deck button to bring them to this page, where they can name the deck and give a description
-
-![Create Screen](Screenshots/Create.png)
-
----
-
-Optionally, the User can click on View to see the Deck chosen and the cards that are in that particular deck
-
-![Card Screen](Screenshots/Cards.png)
-
----
-
-On this page, the User can add new cards to the deck chosen.  Each card has a Front and a Back side to it
-
-![Add Cards Screen](Screenshots/AddCards.png)
-
----
-
-After selecting a deck to view, the User can click on the Study button to bring them to this page and view the front of the first card, and the flip button to see the back 
-
-![Study Screen](Screenshots/Study.png)
